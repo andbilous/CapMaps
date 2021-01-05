@@ -14,7 +14,7 @@
     "@mauron85/react-native-background-geolocation": "^0.6.3",
     "@react-native-community/geolocation": "^2.0.2",
     "add": "^2.0.6",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "lodash": "^4.17.15",
     "native-base": "^2.13.8",
     "react": "16.9.0",
